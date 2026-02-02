@@ -7,7 +7,6 @@ print(add(14,15))
 sq=lambda x:x**3
 print(sq(9))
 
-
 #map function map() applies a function to every item in an iterable (like a list, tuple, etc.) and returns the transformed result.
 num=[1,2,3,4,5,6,7,8,9]
 res=map(lambda x:x**2,num)

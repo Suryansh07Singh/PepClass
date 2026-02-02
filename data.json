@@ -1,0 +1,22 @@
+{
+  "user": {
+    "id": 101,
+    "username": "john_doe",
+    "isActive": true,
+    "roles": ["admin", "editor"],
+    "profile": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com"
+    }
+  }
+}
+
+
+text={
+    "name": "John",
+    "age": 30, 
+    "city": "New York",
+    "marks":{"math": 90, "science": 85},
+    "skills":["Python", "JavaScript", "C++"]
+}
